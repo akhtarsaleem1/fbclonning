@@ -1,5 +1,6 @@
 # ask
 This command support file cloning, simple cloning &amp; specially you can create file
+
 Note: This command free for everyone if any issue contact with me +923489339341
 
 termux-setup-storage
