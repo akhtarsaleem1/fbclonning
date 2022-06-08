@@ -29,5 +29,5 @@ git clone https://github.com/akhtarsaleem1/ask
 
 cd ask
 
-python2 ask.py
+python ask.py
 
