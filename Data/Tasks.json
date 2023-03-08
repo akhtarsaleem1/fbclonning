@@ -1,0 +1,47 @@
+{
+    "intents":[
+        {
+            "tag":"greets",
+            "patterns":["hello","hii","hey"
+            ],
+            "responses":["Hello Sir :)",
+                "Hey, I Was Really Waiting For Your Presence.",
+                "Hey, I Was Literally Waiting For Your Presence.",
+                "Hey, I Was Waiting For Your Presence.",
+                "Hey, I Was Waiting For You.",
+                "Hello, I Was Waiting For You.",
+                "Hello Sir. Nice Meeting You Again.",
+                "Hello Sir. Nice To Meet You.",
+                "Hello.",
+                "Hey What's Up Sir."
+            ]
+        },{
+            "tag":"bye",
+            "patterns":["bye","goodbye","see you later", "sleep", "exit"
+            ],
+            "responses":["Bye Sir :)",
+                "Are you sure Sir?",
+                "i am jarvis & Here's my bye.",
+                "i am really sad you leave me bye.",
+                "bye sir i will be there for you again.",
+                "Sir, Good Bye",
+                "Sir, it'll be nice to talk with you.",
+                "see you later sir.",
+                "Okay sir bye",
+                "Bye Bye Sir."
+            ]
+        },{
+            "tag":"whatsapp",
+            "patterns":["open","message","send message", "message send", "whatsapp", "chat"
+            ],
+            "responses":["whatsapp"
+            ]
+        },{
+            "tag":"open",
+            "patterns":["open","launch","start","visit"
+            ],
+            "responses":["open"
+            ]
+        }
+    ]
+}
