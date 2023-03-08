@@ -86,7 +86,6 @@ def Speak(Text):
              
         else:
             sleep(2)
-    return f"AI : {Data}"
     
 @app.route('/')
 def index():
@@ -176,6 +175,4 @@ def Main():
     
 
 if __name__ == "__main__":
-    app.run(debug=True)
-    
-    
+    app.run(debug=False, host='0.0.0.0')
